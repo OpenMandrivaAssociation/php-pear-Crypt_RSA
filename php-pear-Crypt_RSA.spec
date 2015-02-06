@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.0
-Release:	17
+Release:	18
 Summary:	Provides RSA-like encryption support
 License:	PHP License
 Group:		Development/PHP
